@@ -38,7 +38,7 @@ Play with te parameters as you wish.
 
 ## RoadMap
  1. Implement the following methods:
-  - [StackBlur][6].
+  - [StackBlur][6] (See https://github.com/Quasimondo/QuasimondoJS/issues/8).
   - [Efficient and Accurate Gaussian Image Filtering Using Running Sums][7].
   - [Recursively Implementating the Gaussian and Its Derivatives][8].
  2. Create MEX implementations.
